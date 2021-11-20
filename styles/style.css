@@ -231,22 +231,12 @@
   padding: 90px 0;
 }
 .section-title_theme_dark {
-  /* width: 60%;
-  text-align: center; */
   color: white;
-  margin: 90px 0 20px;
-  /* font-size:  60px;
-  line-height: 1.15;
-  font-weight: bold; */
+  margin: 0 0 20px;
   z-index: 1;
 }
 .section-subtitle_theme_dark {
-  /* width: 60%;
-  text-align: center; */
   color: white;
-  /* font-size:  24px;
-  line-height: 34px;
-  font-weight: normal; */
   margin: 0;
   z-index: 1;
 }
@@ -263,6 +253,7 @@
   z-index: 0;
   background-image: url("../images/kaufman-triangle.svg");
   margin: 0;
+  background-size: 877px 877px;
 }
 
 /* и элемента с модификатором вида ключ-значение */
