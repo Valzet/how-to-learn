@@ -220,7 +220,7 @@
   flex-direction: column;
   align-items: center;
   position: relative;
-  padding: 90px auto;
+  padding: 90px 0;
 }
 .section-title_theme_dark {
   /* width: 60%;
@@ -243,7 +243,7 @@
   z-index: 1;
 }
 .table_theme_dark {
-  margin: 0 auto 90px;
+  margin: 0;
 }
 
 .kaufman__triangle {
@@ -254,6 +254,7 @@
   right: -210px;
   z-index: 0;
   background-image: url("../images/kaufman-triangle.svg");
+  margin: 0;
 }
 
 /* и элемента с модификатором вида ключ-значение */
