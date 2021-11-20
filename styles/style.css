@@ -96,16 +96,17 @@
 .two-columns__main-text {
   width: 80%;
   min-width: 784px;
-  margin: 0px;
+  margin: 0;
 }
 .two-columns__span-accent {
   font-weight: bold;
+  margin: 30px 0;
 }
 .two-columns__paragraph {
   font-size:  24px;
   line-height: 34px;
   font-weight: normal;
-  margin: 0;
+  margin: 0 0 30px;
 }
 
 .digits {
