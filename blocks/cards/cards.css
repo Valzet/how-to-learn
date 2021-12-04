@@ -8,5 +8,6 @@
   /* align-content: flex-start; */
   flex-wrap: wrap;
   width: 920px;
+  list-style-type: none;
 
 }
