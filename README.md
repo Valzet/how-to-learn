@@ -12,3 +12,4 @@ How to learn
 * Анимация и трансформация с помощью CSS
 * Структура css выстроена с помощью методологии BEM (Nested)
 
+https://valzet.github.io/how-to-learn/
