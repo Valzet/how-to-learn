@@ -1,6 +1,4 @@
-# how-to-learn
-How to learn
-
+# Проект: How to learn
 
 ## Моя проектная работа в Яндекс.Практикум
 
@@ -12,4 +10,5 @@ How to learn
 * Анимация и трансформация с помощью CSS
 * Структура css выстроена с помощью методологии BEM (Nested)
 
+Демо:
 https://valzet.github.io/how-to-learn/
