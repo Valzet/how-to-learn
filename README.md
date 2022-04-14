@@ -10,3 +10,6 @@
 
 Демо:
 https://valzet.github.io/how-to-learn/
+
+
+Status: finished
